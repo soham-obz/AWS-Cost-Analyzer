@@ -1,0 +1,4 @@
+mcp
+awslabs-aws-documentation-mcp-server>=1.1.9
+fastmcp>=2.12.5
+uv
